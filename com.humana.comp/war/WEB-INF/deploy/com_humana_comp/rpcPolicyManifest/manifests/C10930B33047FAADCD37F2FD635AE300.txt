@@ -1,0 +1,2 @@
+serviceClass: com.humana.com.client.IngestService
+path: C0EACD48A62498B429B1B109E80E6565.gwt.rpc
