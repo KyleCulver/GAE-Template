@@ -20,6 +20,7 @@ import com.google.gwt.user.client.ui.HorizontalPanel;
 import com.google.gwt.user.client.ui.ListBox;
 import com.google.gwt.user.client.ui.TextArea;
 /**
+ * @author kyle
  * Entry point classes define <code>onModuleLoad()</code>.
  */
 public class Com_humana_comp implements EntryPoint {
