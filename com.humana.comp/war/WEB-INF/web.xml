@@ -25,7 +25,7 @@
 		<servlet-name>ingestServlet</servlet-name>
 		<url-pattern>/com_humana_comp/ingest</url-pattern>
 	</servlet-mapping>
-	<!-- REST Web Services via Jersey -->
+	<!-- REST Web Services via Jersey Case Sensitive   -->
 	<servlet>
 		<servlet-name>Jersey Web Application</servlet-name>
 		<servlet-class>com.sun.jersey.spi.container.servlet.ServletContainer</servlet-class>
